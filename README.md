@@ -2,7 +2,7 @@
 
 Breakout board for the 24pin [ATX](https://en.wikipedia.org/wiki/ATX) connector.
 
-I use it to turn an old ATX [PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer) into a bench power supply.
+I use it to turn an old ATX [PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) into a bench power supply.
 
 ##Features
 * 3.3v, 5v, 12v, -12v
