@@ -23,3 +23,6 @@ I use it to turn an old ATX [PSU](https://en.wikipedia.org/wiki/Power_supply_uni
 ## Pictures
 ![ATX Breakout board schematic](ATXBreakout_schematic.png  "ATX Breakout board schematic")
 ![ATX Breakout board assembled](ATXBreakout_assembled.jpg  "ATX Breakout board assembled")
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/ATXBreakout)](https://github.com/igrigorik/ga-beacon)
